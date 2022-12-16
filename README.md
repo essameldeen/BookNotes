@@ -3,4 +3,4 @@
 
 # Sample Architecture
 
-![](https://github.com/essameldeen/BookNotes/blob/master/DDD.pdf?raw=true)
+![](https://github.com/essameldeen/BookNotes/blob/master/DDD.jpg?raw=true)
